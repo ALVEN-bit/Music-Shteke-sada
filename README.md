@@ -9,3 +9,6 @@
 <img src="https://media.discordapp.net/attachments/769743128776540163/819719039462670396/skip.PNG">
 
 <img src="https://media.discordapp.net/attachments/769743128776540163/819719054691663902/np.PNG">
+
+## CREDITS
+[@error404Unknown](https://github.com/error404Unknown)
